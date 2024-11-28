@@ -16,6 +16,12 @@ html {
   }
   
   h1 {
+    color: rgb(174, 79, 243);
+    margin: 1rem 0;
+    font-size: 3rem;
+  }
+
+  h2 {
     color: rgb(72, 11, 116);
     margin: 1rem 0;
     font-size: 2.5rem;
